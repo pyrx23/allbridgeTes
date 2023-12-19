@@ -1,0 +1,13 @@
+.headd {
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.namee {
+    color: white;
+    font-weight: 700
+}
